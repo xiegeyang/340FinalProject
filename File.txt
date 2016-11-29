@@ -1,0 +1,63 @@
+31708 | CGT-10100-01 | Intr Comptr Graph Tech | 3-0-3 | 31/-1
+Lecture | MW 04:00PM - 05:50PM | Gyte (Millard E) Science Bldg-240 | Roller, Michael
+--------------------------
+30868 | CGT-11100-01 | Dsgn Visualiztn & Comm | 2-2-3 | 23/1
+Laboratory | W 02:00PM - 03:50PM | Anderson (E D) Building-216 | Roller, Michael
+Lecture | M 02:00PM - 03:50PM | Anderson (E D) Building-216 | Roller, Michael
+--------------------------
+38331 | CGT-11100-02 | Dsgn Visualiztn & Comm | 2-2-3 | 25/-1
+Laboratory | W 10:00AM - 11:50AM | Anderson (E D) Building-216 | Roller, Michael
+Lecture | M 10:00AM - 11:50AM | Anderson (E D) Building-216 | Roller, Michael
+--------------------------
+30873 | CGT-11600-01 | Geom Mdl Visual & Comm | 2-2-3 | 22/2
+Laboratory | W 12:00PM - 01:50PM | Powers (Donald S) Building-131 | Jin, Ge
+Lecture | M 12:00PM - 01:50PM | Powers (Donald S) Building-131 | Jin, Ge
+--------------------------
+35213 | CGT-11600-02 | Geom Mdl Visual & Comm | 2-2-3 | 26/1
+Laboratory | R 02:00PM - 03:50PM | Powers (Donald S) Building-137 | Burek, Tom
+Lecture | T 02:00PM - 03:50PM | Powers (Donald S) Building-137 | Burek, Tom
+--------------------------
+30876 | CGT-21100-01 | Raster Imag Cmptr Grph | 0-0-3* | 24/0
+Laboratory | W 08:00AM - 09:50AM | Classroom Office-234 | Chandramouli, Magesh
+Lecture | M 08:00AM - 09:50AM | Classroom Office-234 | Chandramouli, Magesh
+--------------------------
+35063 | CGT-33000-01 | Multmda Anim Gam Desgn | 2-2-3 | 22/2
+Laboratory | R 02:00PM - 03:50PM | Powers (Donald S) Building-131 | Jin, Ge
+Lecture | T 02:00PM - 03:50PM | Powers (Donald S) Building-131 | Jin, Ge
+--------------------------
+32036 | CGT-34000-01 | Digital Light & Render | 0-0-3* | 20/4
+Laboratory | W 12:00PM - 01:50PM | Classroom Office-234 | Chandramouli, Magesh
+Lecture | M 12:00PM - 01:50PM | Classroom Office-234 | Chandramouli, Magesh
+--------------------------
+39535 | CGT-34000-02 | Digital Light & Render | 0-0-3* | 13/11
+Laboratory | R 10:00AM - 11:50AM | Classroom Office-234 | Chandramouli, Magesh
+Lecture | T 10:00AM - 11:50AM | Classroom Office-234 | Chandramouli, Magesh
+--------------------------
+32758 | CGT-35300-01 | Prn Interact&Dyn Media | 0-0-3* | 17/7
+Laboratory | R 04:00PM - 05:50PM | Classroom Office-234 | Taylor, Michelle Lynn
+Lecture | T 04:00PM - 05:50PM | Classroom Office-234 | Taylor, Michelle Lynn
+--------------------------
+38214 | CGT-35300-02 | Prn Interact&Dyn Media | 0-0-3* | 12/12
+Laboratory | R 06:00PM - 07:50PM | Powers (Donald S) Building-131 | Taylor, Michelle Lynn
+Lecture | T 06:00PM - 07:50PM | Powers (Donald S) Building-131 | Taylor, Michelle Lynn
+--------------------------
+30883 | CGT-35600-01 | Web Prog,Dev&Data Intg | 0-0-3* | 24/-4
+Laboratory | W 02:00PM - 03:50PM | Classroom Office-234 | Kender, Daniel
+Lecture | M 02:00PM - 03:50PM | Classroom Office-234 | Kender, Daniel
+--------------------------
+39536 | CGT-35600-02 | Web Prog,Dev&Data Intg | 0-0-3* | 13/11
+Laboratory | R 02:00PM - 03:50PM | Classroom Office-234 | Kender, Daniel
+Lecture | T 02:00PM - 03:50PM | Classroom Office-234 | Kender, Daniel
+--------------------------
+38835 | CGT-41501-01 | Contemp Prob Appl Comp Graphic | 2-0-2 | 16/-16
+Distance Learning | - Distance Learning - | - | Roller, Michael
+Lecture | M 04:00PM - 05:50PM | Gyte (Millard E) Science Bldg-240 | Roller, Michael
+--------------------------
+33348 | CGT-44200-01 | Productn Cmptr Animatn | 2-2-3 | 16/9
+Laboratory | R 12:00PM - 01:50PM | Anderson (E D) Building-229 | Jin, Ge
+Lecture | T 12:00PM - 01:50PM | Anderson (E D) Building-229 | Jin, Ge
+--------------------------
+30886 | CGT-45100-01 | Multi Appli Dev | 0-0-3* | 11/13
+Laboratory | W 06:00PM - 07:50PM | Powers (Donald S) Building-131 | Roller, Michael
+Lecture | M 06:00PM - 07:50PM | Powers (Donald S) Building-131 | Roller, Michael
+--------------------------
