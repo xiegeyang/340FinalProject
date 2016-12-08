@@ -46,6 +46,11 @@ public class Printer {
 		sch.add(row014);
 		
 		for(Course c: li){
+			//System.out.println(c.dateNum);
+			if(c.dateNum == -1){
+				String dis ="Distance Learning : " + c.level + " "+c.prof;
+				sch.add(dis);
+			}
 			for(int i = 0;i<4;i++){
 				if(c.dateNum == i){
 					String s = c.time;
