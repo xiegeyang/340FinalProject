@@ -5,17 +5,19 @@ import java.util.List;
 
 public class Printer {
 	private static Printer Instence = null;
+	
 	private Printer(){}
 	public static Printer getInstence(){
 		if(Instence == null) Instence = new Printer();
 		return Instence;
 	}
-	public void printSch(){
+	public void printSch(String filePath){
 		System.out.println("***********************************************************************************************");
 		//System.out.println("-----------------------------------------------------------------------------------------------");
 		ClassGenerater cg = new ClassGenerater();
-		List<Course> li = cg.readFile("File.txt");
+		List<Course> li = cg.readFile(filePath);
 		List<String> sch = new LinkedList<>();
+		String row000 = "-----------------------------------------------------------------------------------------------";
 		String row001 = "|    Time     |      Monday       |      Tuesday      |     Wesnesday     |      Thursday     |";
 		String row002 = "|-------------|-------------------|-------------------|-------------------|-------------------|";
 		String row003 = "| 08:00-09:50 |                   |                   |                   |                   |";
@@ -29,7 +31,8 @@ public class Printer {
 		String row011 = "| 04:00-05:50 |                   |                   |                   |                   |";
 		String row012 = "|-------------|-------------------|-------------------|-------------------|-------------------|";
 		String row013 = "| 06:00-07:50 |                   |                   |                   |                   |";
-		String row014 = "|-------------|-------------------|-------------------|-------------------|-------------------|";
+		String row014 = "-----------------------------------------------------------------------------------------------";
+		sch.add(row000);
 		sch.add(row001); 
 		sch.add(row002);
 		sch.add(row003);

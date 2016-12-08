@@ -37,11 +37,8 @@ public class ClassGenerater {
 		List<Course> res = new ArrayList<>();
 		String[] strs = content.split("--------------------------");
 		for(String str : strs){
+			if(str.length() <=2) continue;
 			String[] temp = str.split("\\|");
-			String level = null;
-			String date = null;
-			String time =null;
-			String prof = null;
 			String[] dateTime = temp[5].split(" ");
 			Course course = new Course(temp[1].substring(1,temp[1].length()-1), dateTime[1].substring(0, 1), 
 					dateTime[2], temp[7].split("\n")[0]);

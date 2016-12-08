@@ -1,0 +1,73 @@
+32624 | ITS-10000-01 | Info Tech Fundamentals | 3-0-3 | 35/5
+Lecture | TR 04:00PM - 05:20PM | Powers (Donald S) Building-130 | Barai, Amita
+--------------------------
+32626 | ITS-11000-01 | Web Systems Technology | 2-2-3 | 24/3
+Laboratory | W 10:00AM - 11:50AM | Powers (Donald S) Building-137 | Mohamed Iqbal, Mohamed Irshad
+Lecture | M 10:00AM - 11:50AM | Powers (Donald S) Building-137 | Barai, Amita
+--------------------------
+38310 | ITS-11000-02 | Web Systems Technology | 2-2-3 | 20/7
+Laboratory | W 02:00PM - 03:50PM | Powers (Donald S) Building-137 | Mohamed Iqbal, Mohamed Irshad
+Lecture | M 02:00PM - 03:50PM | Powers (Donald S) Building-137 | Barai, Amita
+--------------------------
+35400 | ITS-14000-01 | Intro Cmptr Algorithms & Logic | 0-0-3* | 28/-1
+Laboratory | W 12:00PM - 01:50PM | Powers (Donald S) Building-139 | Song, Qunhao
+Lecture | M 12:00PM - 01:50PM | C. H. Lawshe Hall-131 | Schieb, Jeffrey
+--------------------------
+38311 | ITS-14000-02 | Intro Cmptr Algorithms & Logic | 0-0-3* | 16/11
+Lecture | M 12:00PM - 01:50PM | C. H. Lawshe Hall-131 | Schieb, Jeffrey
+Laboratory | W 10:00AM - 11:50AM | Powers (Donald S) Building-139 | Song, Qunhao
+--------------------------
+32625 | ITS-20000-01 | Ethical & Legal Issues | 3-0-3 | 30/0
+Distance Learning | - Distance Learning -  | - | Uzubell, Susan R
+--------------------------
+38561 | ITS-20000-02 | Ethical & Legal Issues | 3-0-3 | 26/4
+Distance Learning | - Distance Learning -  | - | Nicolai, Barbara
+--------------------------
+32627 | ITS-24000-01 | Program Fundamentals | 2-2-3 | 26/1
+Laboratory | W 12:00PM - 01:50PM | Powers (Donald S) Building-137 | Tu, Manghui
+Lecture | M 12:00PM - 01:50PM | Powers (Donald S) Building-137 | Tu, Manghui
+--------------------------
+32629 | ITS-27000-01 | Internetworking Tech | 2-2-3 | 21/6
+Laboratory | W 02:00PM - 03:50PM | Powers (Donald S) Building-139 | Kim, Tae-Hoon
+Lecture | M 02:00PM - 03:50PM | Powers (Donald S) Building-139 | Kim, Tae-Hoon
+--------------------------
+38559 | ITS-27000-02 | Internetworking Tech | 2-2-3 | 12/15
+Laboratory | R 12:00PM - 01:50PM | Powers (Donald S) Building-139 | Kim, Tae-Hoon
+Lecture | T 12:00PM - 01:50PM | Powers (Donald S) Building-139 | Kim, Tae-Hoon
+--------------------------
+36016 | ITS-33000-01 | Adv Operating Systems | 0-0-3* | 22/5
+Laboratory | R 04:00PM - 05:50PM | Powers (Donald S) Building-137 | Tu, Manghui
+Lecture | T 04:00PM - 05:50PM | Powers (Donald S) Building-137 | Tu, Manghui
+--------------------------
+32633 | ITS-34000-01 | Advanced Programming | 2-2-3 | 27/0
+Laboratory | W 04:00PM - 05:50PM | Powers (Donald S) Building-139 | Jiang, Keyuan
+Lecture | M 04:00PM - 05:50PM | Powers (Donald S) Building-139 | Jiang, Keyuan
+--------------------------
+33711 | ITS-35000-01 | Systems Assurance | 2-2-3 | 24/3
+Laboratory | R 06:00PM - 07:50PM | Powers (Donald S) Building-139 | Calix, Ricardo
+Lecture | T 06:00PM - 07:50PM | Powers (Donald S) Building-139 | Calix, Ricardo
+--------------------------
+32639 | ITS-36000-01 | Distrib Appl Arch&Dsgn | 2-2-3 | 19/5
+Laboratory | W 02:00PM - 03:50PM | Powers (Donald S) Building-129 | Nicolai, Barbara
+Lecture | M 02:00PM - 03:50PM | Powers (Donald S) Building-129 | Nicolai, Barbara
+--------------------------
+36196 | ITS-37000-01 | Data Com & Networking | 3-0-3 | 24/3
+Lecture | TR 02:00PM - 03:20PM | Powers (Donald S) Building-139 | Kim, Tae-Hoon
+--------------------------
+33712 | ITS-45000-01 | Software Assurance | 2-2-3 | 15/12
+Laboratory | R 04:00PM - 05:50PM | Powers (Donald S) Building-139 | Calix, Ricardo
+Lecture | T 04:00PM - 05:50PM | Powers (Donald S) Building-139 | Calix, Ricardo
+--------------------------
+34171 | ITS-45200-01 | Computer Forensics | 2-2-3 | 16/11
+Laboratory | W 04:00PM - 05:50PM | Powers (Donald S) Building-137 | Tu, Manghui
+Lecture | M 04:00PM - 05:50PM | Powers (Donald S) Building-137 | Tu, Manghui
+--------------------------
+32637 | ITS-47000-01 | Lrg Scale Hgh Perf Sys | 3-0-3 | 10/17
+Lecture | MW 06:00PM - 07:20PM | Powers (Donald S) Building-139 | Kim, Tae-Hoon
+--------------------------
+32642 | ITS-48000-01 | IT Proj Develop&Mgmt | 3-0-3 | 11/16
+Lecture | TR 06:00PM - 07:20PM | Powers (Donald S) Building-129 | Nicolai, Barbara
+--------------------------
+32787 | ITS-49000-01 | Sr Proj Undergrad Res | 3-0-3 | 4/14(ExL)
+Individual Study | - Hours Arranged -  | - | Nicolai, Barbara
+--------------------------

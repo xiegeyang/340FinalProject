@@ -1,0 +1,64 @@
+62977 | ITS-12000-01 | Info Tech Interaction | 2-2-3 | 26/1
+Laboratory | W 10:00AM - 11:50AM | Powers (Donald S) Building-137 | Barai, Amita
+Lecture | M 10:00AM - 11:50AM | Powers (Donald S) Building-137 | Barai, Amita
+--------------------------
+65511 | ITS-12000-02 | Info Tech Interaction | 2-2-3 | 25/-1
+Laboratory | R 12:00PM - 01:50PM | Powers (Donald S) Building-129 | Adams, Thomas
+Lecture | T 12:00PM - 01:50PM | Powers (Donald S) Building-129 | Adams, Thomas
+--------------------------
+64476 | ITS-13500-01 | Operating Systems Tech | 2-2-3 | 24/0
+Lecture | M 04:00PM - 05:50PM | Powers (Donald S) Building-129 | Alt, Donna
+Laboratory | W 04:00PM - 05:50PM | Powers (Donald S) Building-129 | Xue, Shiming
+Lecture | M 04:00PM - 05:50PM | Powers (Donald S) Building-129 | Tu, Manghui
+--------------------------
+65512 | ITS-13500-02 | Operating Systems Tech | 2-2-3 | 28/-1
+Laboratory | R 04:00PM - 05:50PM | Powers (Donald S) Building-137 | Xue, Shiming
+Lecture | T 04:00PM - 05:50PM | Powers (Donald S) Building-137 | Alt, Donna
+--------------------------
+64477 | ITS-17000-01 | Network Technologies | 2-2-3 | 27/0
+Laboratory | W 12:00PM - 01:50PM | Powers (Donald S) Building-139 | Song, Qunhao
+Lecture | M 12:00PM - 01:50PM | C. H. Lawshe Hall-131 | Kim, Tae-Hoon
+--------------------------
+65516 | ITS-17000-02 | Network Technologies | 2-2-3 | 28/-4
+Lecture | M 12:00PM - 01:50PM | C. H. Lawshe Hall-131 | Kim, Tae-Hoon
+Laboratory | W 10:00AM - 11:50AM | Powers (Donald S) Building-139 | Song, Qunhao
+--------------------------
+63860 | ITS-24500-01 | Integrative Program | 2-2-3 | 25/2
+Laboratory | R 12:00PM - 01:50PM | Powers (Donald S) Building-139 | Kender, Daniel
+Lecture | T 12:00PM - 01:50PM | Powers (Donald S) Building-139 | Kender, Daniel
+--------------------------
+62980 | ITS-25000-01 | Fund of Info Assurance | 2-2-3 | 23/4
+Laboratory | R 02:00PM - 03:50PM | Powers (Donald S) Building-139 | Tu, Manghui
+Lecture | T 02:00PM - 03:50PM | Powers (Donald S) Building-139 | Tu, Manghui
+--------------------------
+62983 | ITS-26000-01 | Applied Database Tech | 2-2-3 | 25/-1
+Laboratory | R 10:00AM - 11:50AM | Powers (Donald S) Building-129 | Nicolai, Barbara
+Lecture | T 10:00AM - 11:50AM | Powers (Donald S) Building-129 | Nicolai, Barbara
+--------------------------
+63861 | ITS-36200-01 | Distrib Appl Developmt | 2-2-3 | 12/15
+Laboratory | W 04:00PM - 05:50PM | Powers (Donald S) Building-137 | Calix, Ricardo
+Lecture | M 04:00PM - 05:50PM | Powers (Donald S) Building-137 | Calix, Ricardo
+--------------------------
+65517 | ITS-36400-01 | Database Model &Implem | 2-2-3 | 11/13(ExL)
+Laboratory | R 04:00PM - 05:50PM | Powers (Donald S) Building-129 | Nicolai, Barbara
+Lecture | T 04:00PM - 05:50PM | Powers (Donald S) Building-129 | Nicolai, Barbara
+--------------------------
+63874 | ITS-37200-01 | System Admin & Mgmt | 2-2-3 | 14/13
+Laboratory | W 06:00PM - 07:50PM | Powers (Donald S) Building-137 | Calix, Ricardo
+Lecture | M 06:00PM - 07:50PM | Powers (Donald S) Building-137 | Calix, Ricardo
+--------------------------
+63862 | ITS-45400-01 | Assur Sys Des & Implem | 2-2-3 | 20/7(ExL)
+Laboratory | R 04:00PM - 05:50PM | Powers (Donald S) Building-139 | Calix, Ricardo
+Lecture | T 04:00PM - 05:50PM | Powers (Donald S) Building-139 | Calix, Ricardo
+--------------------------
+63870 | ITS-46200-01 | Applicatn Integration | 2-2-3 | 22/5
+Laboratory | R 06:00PM - 07:50PM | Powers (Donald S) Building-139 | Jiang, Keyuan
+Lecture | T 06:00PM - 07:50PM | Powers (Donald S) Building-139 | Jiang, Keyuan
+--------------------------
+63859 | ITS-47200-01 | Netwrk Dsgn & Implemtn | 2-2-3 | 16/11(ExL)
+Laboratory | W 04:00PM - 05:50PM | Powers (Donald S) Building-139 | Kim, Tae-Hoon
+Lecture | M 04:00PM - 05:50PM | Powers (Donald S) Building-139 | Kim, Tae-Hoon
+--------------------------
+62976 | ITS-49000-01 | Sr Proj Undergrad Res | 3-0-3 | 17/-17(ExL)
+Individual Study | - Hours Arranged -  | - | Nicolai, Barbara
+--------------------------
